@@ -22,7 +22,6 @@ public class Circulo {
 		return perimetro;
 		
 	}
-
-	
+	/*hola, excluir comentario. Test de Commit y push*/
 
 }
